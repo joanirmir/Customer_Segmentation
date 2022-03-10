@@ -5,7 +5,7 @@ Team: Barbara/Mirjam
 
 Customer_Segmentation
 
-Cluster Model with K-Means to create clusters for customers
+Cluster Model to create clusters for customers
 
 Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
 
